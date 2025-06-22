@@ -1,0 +1,14 @@
+*
+
+!/src
+!/src/*.c
+!/src/*/
+!/src/*/*.c
+!/src/*/Makefile
+
+!/include
+!/include/*.h
+
+!/.gitignore
+!/install_readline.sh
+!/Makefile
